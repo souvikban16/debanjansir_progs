@@ -16,6 +16,6 @@ class sumofarray
 			sum=sum+ar[i];
 		}
 		System.out.println("Sum="+sum);
-		
+
 	}
 }
